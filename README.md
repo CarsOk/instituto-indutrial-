@@ -1,4 +1,3 @@
-# Banco
-Proyecto Banco
+# institucion 
+Proyecto instituto 
 
-Construir el HTML y el CSS para la pagina propuesta.
